@@ -716,54 +716,54 @@
   <string name="alarm_ringtone_title">Рингтон тревоги по умолчанию</string>
   
   <!-- Setting option name to change LCD density -->
-  <string name="lcd_density">Плотность экрана</string>
-  <string name="dialog_title_lcd_density">Плотность экрана</string>
+  <string name="lcd_density">Плотність екрану</string>
+  <string name="dialog_title_lcd_density">Плотність екрану</string>
   <string name="lcd_density_summary">xxx DPI</string>
-  <string name="custom_density_title">Измнените все как, Вам нравится</string>
-  <string name="custom_density_summary">Если, Вы столкнетесь с проблемами совместимости ПО в Play Store, в таком случае перепроверьте стоит ли у вас, модифицированный Play Store.</string>
+  <string name="custom_density_title">Змініть все так, як Вам подобається</string>
+  <string name="custom_density_summary">Якщо, Ви зіткнетесь з проблемою сумісності ПЗ в Play Store, в такому випадку перевірте чи у Вас не встановлений модифіковавий Play Store.</string>
   <string name="custom_density_summary_invalid">"INVALID DENSITY!"</string>
-  <string name="custom_density">Не стандартное</string>
-  <string name="set_custom_density_title">Установить не стандартную плотность экрана</string>
-  <string name="set_custom_density_set">Установить</string>
-  <string name="custom_density_dialog_title">ОСТОРОЖНО!</string>
+  <string name="custom_density">Не за замовчуванням</string>
+  <string name="set_custom_density_title">Встановити не стандартну плотність екрану</string>
+  <string name="set_custom_density_set">Встановити</string>
+  <string name="custom_density_dialog_title">ОБЕРЕЖНО!</string>
   <string name="custom_density_dialog_summary">Changing your default LCD density can sometimes cause certain apps to not function properly and/or the playstore to show apps being incompatible with your device"</string>
   <string name="dpi">DPI</string>
   
   <!-- Privacy guard notification -->
-  <string name="privacy_guard_notification_title">Уведомления</string>
-  <string name="privacy_guard_notifiation_summary">Показывать уведомление если режим безопасности активирован</string>
+  <string name="privacy_guard_notification_title">Повідомлення</string>
+  <string name="privacy_guard_notifiation_summary">Показувати повідомлення якщо режим безпеки активований</string>
   
   <!-- Text for forcing expanded notifications -->
-  <string name="disable_fc_notifications_title">Отключить уведомления FC</string>
-  <string name="disable_fc_notifications_summary">Это спрячет все уведомления связанные с FC(force close)</string>
+  <string name="disable_fc_notifications_title">Виключити повідомлення FC</string>
+  <string name="disable_fc_notifications_summary">Це сховає всі повідомлення пов'язані з FC(force close)</string>
   
   <!-- Navigation bar -->
-  <string name="navbar_style_dimen_title">Размер навигационной панели</string>
-  <string name="navbar_dimensions_reset_message">Сбросить все настройки по умолчанию?</string>
-  <string name="navigation_bar_height_title">Высота навигационной панели</string>
-  <string name="navigation_bar_height_summary">Высота навигационной панели в вертикальном положении</string>
-  <string name="navigation_bar_width_title">Ширина навигационной панели</string>
-  <string name="navigation_bar_width_summary">Ширина навигационной панели в горизонтальном положении</string>
-  <string name="navigation_bar_size_42_dp_default">42 dp (по умолчанию)</string>
+  <string name="navbar_style_dimen_title">Розмір навігаційної панелі</string>
+  <string name="navbar_dimensions_reset_message">Скинути всі налаштувуання за замовчуванням?</string>
+  <string name="navigation_bar_height_title">Висота навігаційної панелі</string>
+  <string name="navigation_bar_height_summary">Висота навігаційної панелі в вертикальному положенні</string>
+  <string name="navigation_bar_width_title">Ширина навігаційної панелі</string>
+  <string name="navigation_bar_width_summary">Ширина навігаційної панелі в горизонтальному положенні</string>
+  <string name="navigation_bar_size_42_dp_default">42 dp (за замовчуванням)</string>
   <string name="navigation_bar_size_36_dp">36 dp</string>
   <string name="navigation_bar_size_30_dp">30 dp</string>
   <string name="navigation_bar_size_24_dp">24 dp</string>
-  <string name="navigation_bar_size_48_dp_default">48 dp (по умолчанию)</string>
+  <string name="navigation_bar_size_48_dp_default">48 dp (за замовчуванням)</string>
   <string name="navigation_bar_size_44_dp">44 dp</string>
   <string name="navigation_bar_size_40_dp">40 dp</string>
   <string name="navigation_bar_size_42_dp">42 dp</string>
-  <string name="navigation_bar_size_0_dp">0 dp (откл.)</string>
+  <string name="navigation_bar_size_0_dp">0 dp (викл.)</string>
 
   <!-- Custom bootanim -->
-  <string name="custom_bootanimation_title">Анимация загрузки</string>
-  <string name="custom_bootanimation_summary">Выберите свою новую анимацию загрузки.\nПри каждом изменении, текущая анимация будет сохранена в памяти/AICP_ota папка с датой. Старые сохранения могут быть удаленны вручную, если в них нет нужды.</string>
-  <string name="bootanimation_preview">Анимация загруки (превью)</string>
-  <string name="set_custom_bootanimation">Установить другую...</string>
-  <string name="creating_preview">Создается превью...</string>
-  <string name="error_reading_zip_file">Ошибка чтения zip файла</string>
-  <string name="error_creating_preview">Ошибка создания превью</string>
-  <string name="install_file_manager_error">Нет приложения для поиска и выбора zip файла. Пожалуйста установите файловый менеджер.</string>
-  <string name="apply">Принять</string>
+  <string name="custom_bootanimation_title">Анімація завантаження</string>
+  <string name="custom_bootanimation_summary">Виберіть свою нову анімацію завантаження. При кожній зміні, поточна анімація буде збережена в памяті /AICP_ota тека з датой. Старі збереження можуть бути видалені вручну, якщо вони не потрібні.</string>
+  <string name="bootanimation_preview">Анімація завантаження (превю)</string
+  <string name="set_custom_bootanimation">Встановіть іншу...</string>
+  <string name="creating_preview">Створюється превю...</string>
+  <string name="error_reading_zip_file">Помилка читання zip файла</string>
+  <string name="error_creating_preview">Помилка створення превю</string>
+  <string name="install_file_manager_error">Немає додатку для пошуку і вибору zip файла. Будь ласка встановіть файловий менеджер.</string>
+  <string name="apply">Прийняти</string>
 
   <!-- Doze options -->
   <string name="display_category_doze_options_title">Ambient display (doze) настройки</string>
@@ -774,9 +774,9 @@
   <string name="doze_trigger_motion_summary_off">Doze pulse will only be triggered by notifications</string>
 
   <!-- QuickSettings tiles -->
-  <string name="qs_screenshot_tile">Скриншот</string>
-  <string name="qs_screenrecord_tile">Запись с экрана</string>
-  <string name="qs_sync_tile">Синхронизация</string>
-  <string name="qs_tile_powermenu">Меню питания</string>
+  <string name="qs_screenshot_tile">Скріншот</string>
+  <string name="qs_screenrecord_tile">Запис з екрану</string>
+  <string name="qs_sync_tile">Синхронізація</string>
+  <string name="qs_tile_powermenu">Меню живлення</string>
   
 </resources>
